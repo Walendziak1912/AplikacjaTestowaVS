@@ -11,6 +11,7 @@ namespace AplikacjaTestowa
         static void Main(string[] args)
         {
             Console.WriteLine("Witaj świecie");
+            Console.WriteLine("Dobranoc");
             Console.ReadKey();
         }
     }
